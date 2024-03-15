@@ -5,7 +5,7 @@ public class App
     public static void main( String[] args )
     {
 		int i;
-		int k;
+		int R;
 		int j;
 		int l;
 
