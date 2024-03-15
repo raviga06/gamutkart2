@@ -6,7 +6,7 @@ public class App
     {
 		int i;
 		int R;
-		int j;
+		int v;
 		int l;
 
 		for(i=0;i<=60;i++)
